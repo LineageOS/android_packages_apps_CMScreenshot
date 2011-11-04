@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAK3///WM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2011-11-04T03:28:55Z",
+      "side": 1,
+      "message": "Wie findest du SD-Karte anstatt Media?",
+      "revId": "044188fbe64b60d077b11d50c94e3f471baf93f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
